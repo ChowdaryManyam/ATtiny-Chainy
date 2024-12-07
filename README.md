@@ -26,17 +26,18 @@ ATtiny-Chainy is an innovative, compact circular development board that reimagin
 - **Layer Count**: Single Layer
 - **Compatibility**: Arduino IDE programmable
 
-## Getting Started 🚀
+## Getting Started 
 Makers can quickly get started with ATtiny-Chainy by cloning the repository, reviewing the schematic, and manufacturing the PCB using their preferred method. The board's design emphasizes simplicity and accessibility, allowing both novice and experienced electronics enthusiasts to bring their projects to life with minimal barriers to entry.
 
 ## License 📄
-ATtiny-Chainy is released under the Open-Source Hardware (OSHW) framework and the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. This means the project is freely available for sharing, adaptation, modification, and redistribution, with the requirement of providing appropriate credit to the original creator. The open-source nature of this project encourages collaboration, learning, and innovation within the maker community.
+ATtiny-Chainy is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. This means the project is freely available for sharing, adaptation, modification, and redistribution, with the requirement of providing appropriate credit to the original creator. The open-source nature of this project encourages collaboration, learning, and innovation within the maker community.
+- ATtiny-Chainy © 2024 by Chowdary Manyam (Schrodinger Guru) is licensed under CC BY-SA 4.0 
 
-## Inspiration 💭
+## Inspiration 
 Inspired by DigiStump's DigiSpark, ATtiny-Chainy takes the concept of a compact development board and elevates it with a unique circular design, enhanced portability, and maker-friendly features. It represents a fusion of practical design and creative engineering.
 
-## Disclaimer ⚠️
-This is a community project. Always follow proper electronics safety guidelines when working with microcontrollers and PCBs. The experimental power options, such as direct LiPo battery connection, should be approached with caution and proper understanding of electrical characteristics.
+## Disclaimer 
+This is a community project. Always follow proper electronics safety guidelines when working with microcontrollers and PCBs. The experimental power options, such as direct LiPo battery connection, should be approached with caution and a proper understanding of electrical characteristics.
 
 ---
 
