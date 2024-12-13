@@ -26,6 +26,16 @@ ATtiny-Chainy is an innovative, compact circular development board that reimagin
 - **Layer Count**: Single Layer
 - **Compatibility**: Arduino IDE programmable
 
+## OSHWA Certification
+ATtiny-Chainy has been officially certified as open source hardware by the Open Source Hardware Association (**OSHWA**). 
+
+- **Certification UID**: DE000151
+- **Certification Directory Listing**: [View Listing](https://certification.oshwa.org/list.html)
+- **Project Directory**: [Direct Link](https://certification.oshwa.org/de000151.html)
+
+As an OSHWA-certified project, ATtiny-Chainy adheres to the open-source hardware definition, ensuring transparency, collaboration, and accessibility for the maker community. The certification mark can be used alongside this project in compliance with OSHWA guidelines.
+
+
 ## Getting Started 
 Makers can quickly get started with ATtiny-Chainy by cloning the repository, reviewing the schematic, and manufacturing the PCB using their preferred method. The board's design emphasizes simplicity and accessibility, allowing both novice and experienced electronics enthusiasts to bring their projects to life with minimal barriers to entry.
 
